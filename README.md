@@ -105,14 +105,8 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
 
 **LoveGenie – Your AI-powered wingman for digital conversations!**
 
 ---
 
-Let me know if you want to add badges, a demo link, or any other custom section!
