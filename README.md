@@ -35,16 +35,16 @@ LoveGenie is a modern, AI-powered web app that helps you communicate better in y
 ## 📸 Screenshots
 
 ### Feature Cards
-![Feature Cards](/screenshots/feature-cards.png)
+![Feature Cards](/public/screenshots/feature-cards.png)
 
 ### Reply Suggestions
-![Reply Suggestions](/screenshots/reply-suggestions.png)
+![Reply Suggestions](/public/screenshots/reply-suggestions.png)
 
 ### Start Conversation
-![Start Conversation](/screenshots/start-conversation.png)
+![Start Conversation](/public/screenshots/start-conversation.png)
 
 ### Awkward Situation Advice
-![Awkward Situation](/screenshots/awkward-situation.png)
+![Awkward Situation](/public/screenshots/awkward-situation.png)
 
 
 ---
