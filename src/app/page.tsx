@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { MainLayout } from '@/components/layout/main-layout';
 import { Button } from '@/components/ui/button';
-import { Wand2, MessageSquare, ImageIcon, Heart, Star, Frown } from 'lucide-react';
+import { Wand2, MessageSquare, ImageIcon, Star, Frown } from 'lucide-react';
 
 export default function HomePage() {
   return (

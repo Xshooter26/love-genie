@@ -1,6 +1,6 @@
 "use client"
-import { Copy, MessageSquare } from 'lucide-react';
-import { TonalitySelector } from '@/components/chat/tonality-selector';
+import { Copy } from 'lucide-react';
+
 import { useState, useRef } from 'react';
 import { generateResponse, cleanGeminiResponse } from '@/lib/gemini';
 import { useToast } from '@/components/ui/use-toast';

@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
-import { Copy, ThumbsUp, ThumbsDown } from 'lucide-react';
+import { Copy } from 'lucide-react';
 
 interface ResponseSuggestion {
   id: string;
